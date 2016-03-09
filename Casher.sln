@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casher", "Casher\Casher.csproj", "{C795A89D-861D-447E-A3BF-E78CE6BFD6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasherEntity", "CasherEntity\CasherEntity.csproj", "{771B0EA8-7BBD-4EE2-BEC6-936D8AD34A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasherCommon", "CasherCommon\CasherCommon.csproj", "{C6886D4D-5942-4DC5-A9E0-CBA07228B700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasherData", "CasherData\CasherData.csproj", "{3AEFB096-9BA6-4FB3-A6E9-7D70FFE7C3F3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ldppro.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Casher\\Casher.csproj
+		SccProjectName1 = Casher
+		SccLocalPath1 = Casher
+		SccProjectUniqueName2 = CasherEntity\\CasherEntity.csproj
+		SccProjectName2 = CasherEntity
+		SccLocalPath2 = CasherEntity
+		SccProjectUniqueName3 = CasherCommon\\CasherCommon.csproj
+		SccProjectName3 = CasherCommon
+		SccLocalPath3 = CasherCommon
+		SccProjectUniqueName4 = CasherData\\CasherData.csproj
+		SccProjectName4 = CasherData
+		SccLocalPath4 = CasherData
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C795A89D-861D-447E-A3BF-E78CE6BFD6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C795A89D-861D-447E-A3BF-E78CE6BFD6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C795A89D-861D-447E-A3BF-E78CE6BFD6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C795A89D-861D-447E-A3BF-E78CE6BFD6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771B0EA8-7BBD-4EE2-BEC6-936D8AD34A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771B0EA8-7BBD-4EE2-BEC6-936D8AD34A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771B0EA8-7BBD-4EE2-BEC6-936D8AD34A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771B0EA8-7BBD-4EE2-BEC6-936D8AD34A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6886D4D-5942-4DC5-A9E0-CBA07228B700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6886D4D-5942-4DC5-A9E0-CBA07228B700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6886D4D-5942-4DC5-A9E0-CBA07228B700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6886D4D-5942-4DC5-A9E0-CBA07228B700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEFB096-9BA6-4FB3-A6E9-7D70FFE7C3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEFB096-9BA6-4FB3-A6E9-7D70FFE7C3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEFB096-9BA6-4FB3-A6E9-7D70FFE7C3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEFB096-9BA6-4FB3-A6E9-7D70FFE7C3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
